@@ -21,5 +21,6 @@ Compile the Go core:
 ### Java GUI
 
 Import the Java GUI in IntelliJ and set the following D command-line option:
+
     Dproxinycore=/path/to/core/server
 
