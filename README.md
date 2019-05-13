@@ -14,12 +14,12 @@ I leave the following instructions if someone wants to give it a try and for fut
 Compile the Go core:
 
     git clone https://github.com/rhaidiz/proxiny.git
-		cd proxiny/core/
-		go build server.go
+    cd proxiny/core/
+    go build server.go
 
 
 ### Java GUI
 
 Import the Java GUI in IntelliJ and set the following D command-line option:
-   -Dproxinycore=/path/to/core/server
+    Dproxinycore=/path/to/core/server
 
